@@ -1,0 +1,75 @@
+.design{
+display:flex;
+
+
+}
+
+
+.one
+{
+    background-color:whitesmoke;
+    
+    height: 50%;
+    
+    width:30% ;
+    font-size:large;
+     
+}
+
+.two
+{
+
+font-size:20px ;
+margin-left:20px;
+
+}
+
+ul{
+    list-style-type:none;
+    
+    margin-left: -30px;
+    
+    
+
+}
+li{
+    margin-top: 5px;
+}
+
+    
+
+img
+{
+    height: 25%;
+    width:90%;
+}
+.btn
+{
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px ;
+    padding-right: 20px;
+    float:right ;
+    font-size: medium;
+    margin-top: 50px;
+    color:white;
+}
+.right button
+{
+    background-color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px ;
+    padding-right:20px ;
+    font-size: medium;
+    float: right;
+    margin: 10px;
+    border: none;
+    color:white;
+}
+
+
+
+    
+    
